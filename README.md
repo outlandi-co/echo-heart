@@ -56,4 +56,6 @@ Join our community of developers creating universal apps.
 
 ## Need to wait for the updates
 
-## I will submit with a pull request one sequential number higher due to time constraint- tonight
+## I will submit with a pull request one sequential number higher due to time constraint- tonight!
+
+[figma](<Screenshot 2024-06-25 at 7.38.32 AM.png>)
