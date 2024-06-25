@@ -48,3 +48,12 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+
+## created repo/app
+
+## continuous updating the terminal installations. Found out what was needed and am currently working on it
+
+## Need to wait for the updates
+
+## I will submit with a pull request one sequential number higher due to time constraint- tonight
